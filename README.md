@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">Lifetime student and software developer from India.</h3>
 
-- 🔭 I’m currently working on **Falcon 9 space x , first stage reuse prediction**
+- 🔭 I’m currently working on **Falcon 9 space x, first stage reuse prediction**
 
-- 🌱 I’m currently learning **Deep learning and statistics**
+- 🌱 I’m currently learning **Deep learning and Statistics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tushar2121/projects](https://github.com/tushar2121/projects)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tech.tushar.india@gmail.com**
 
-- ⚡ Fun fact **I feel I can write code without test cases. ( feelings are often not true )**
+- ⚡ Fun fact **I feel like I can write code without test cases. ( feelings are often not true )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
