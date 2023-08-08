@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">Lifetime student and software developer from India.</h3>
 
