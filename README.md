@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep learning and Statistics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tushar2121/projects](https://github.com/tushar2121/projects)
+- 👨‍💻 All of my projects are available at [https://github.com/tushar-chauhan-01/projects](https://github.com/tushar-chauhan-01/projects)
 
 - 💬 Ask me about **How to manage work and travel.**
 
