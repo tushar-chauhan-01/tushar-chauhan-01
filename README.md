@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">Lifetime student and software developer from India.</h3>
 
-- 🔭 I’m currently working on **Falcon 9 space x, first stage reuse prediction**
+- 🔭 I’m currently working on **learning generative AI concepts**
 
-- 🌱 I’m currently learning **Deep learning and Statistics**
+- 🌱 I’m currently learning **Deep learning and Statistics and generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tushar-chauhan-01/projects](https://github.com/tushar-chauhan-01/projects)
 
