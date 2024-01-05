@@ -26,5 +26,5 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="coursera" width="40" height="40"/> </a>  
 <a href="https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="coursera" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="40" height="40"/> </a>
 </p>
