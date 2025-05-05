@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">Lifetime student and software developer from India.</h3>
 
-- 🔭 I’m currently working as **Backend Developer in Elevondata**
+- 🔭 I’m currently working as **Python Backend Developer/ COnsultant in Elevondata**
 
-- 🌱 I’m currently learning **Java with DSA and Go**
+- 🌱 I’m currently learning **DSA with Python and System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tushar-chauhan-01/projects](https://github.com/tushar-chauhan-01/projects)
 
