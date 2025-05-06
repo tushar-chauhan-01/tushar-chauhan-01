@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Python Backend Developer/ COnsultant in Elevondata**
 
-- 🌱 I’m currently learning **DSA with Python and System Design**
+- 🌱 I’m currently revising **DSA with Python** and learning **System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tushar-chauhan-01/projects](https://github.com/tushar-chauhan-01/projects)
 
