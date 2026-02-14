@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">Lifetime student and Software Engineer from India.</h3>
 
-- 🔭 I’m currently working as **Python Backend Developer/ COnsultant in Elevondata**
+- 🔭 I’m currently working as **Python Backend Developer/ Consultant in Elevondata**
 
 - 🌱 I’m currently revising **DSA with Python** and learning **System Design**
 
